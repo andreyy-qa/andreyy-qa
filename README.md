@@ -22,8 +22,8 @@ Experienced in functional testing, negative scenarios, boundary value analysis, 
 - Node.js (local project setup)
 
 ## Projects
-- [Message Template Editor (React + TypeScript)](https://github.com/ТВОЙ_USERNAME/qa-message-template-editor)
-- [Yandex Web & Mobile Testing](https://github.com/ТВОЙ_USERNAME/qa-yandex-testing)
+- [Message Template Editor (React + TypeScript)](https://github.com/andreyy-qa/qa-message-template-editor)
+- [Yandex Web & Mobile Testing](https://github.com/andreyy-qa/qa-yandex-testing)
 
 ## Contact
-Email: your_email@gmail.com
+Email: andreuvoronin92@gmail.com
