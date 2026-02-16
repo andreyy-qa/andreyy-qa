@@ -1,7 +1,4 @@
-# Andrey Voronin  
-
-Junior QA Engineer (Manual)
-
+# Andrey Voronin Junior QA Engineer (Manual)
 
 
 ## About Me
