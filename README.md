@@ -13,9 +13,7 @@ Experienced in functional testing, boundary value analysis, exploratory testing,
 - Boundary Value Analysis
 - Alternative Flow Testing
 - Requirement Analysis
-- Bug Reporting (Severity / Priority)
-- Defect Lifecycle Understanding
-
+- Test Documentation (Test Cases, Checklists, Bug Reports)
 
 ## Tools & Technologies
 - Jira
