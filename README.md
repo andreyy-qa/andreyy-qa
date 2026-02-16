@@ -28,6 +28,7 @@ Experienced in functional testing, boundary value analysis, exploratory testing,
 ## Projects
 - [Message Template Editor (React + TypeScript)](https://github.com/andreyy-qa/qa-message-template-editor)
 - [Yandex Web & Mobile Testing](https://github.com/andreyy-qa/qa-yandex-testing)
+- [E-commerce web platform](https://github.com/andreyy-qa/qa-ecommerce-testing)
 
 
 ## Contact
