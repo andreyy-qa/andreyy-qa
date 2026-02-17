@@ -7,13 +7,16 @@ Experienced in functional testing, boundary value analysis, exploratory testing,
 
 
 ## Technical Skills
-- Functional Testing
+-	Functional Testing
 - Positive and Negative Testing
 - Equivalence Partitioning
 - Boundary Value Analysis
 - Alternative Flow Testing
 - Requirement Analysis
 - Test Documentation (Test Cases, Checklists, Bug Reports)
+- Basic SQL (SELECT, WHERE, JOIN)
+- Understanding of REST API principles
+- Request/Response analysis (HTTP status codes, JSON)
 
 ## Tools & Technologies
 - Jira
@@ -21,7 +24,8 @@ Experienced in functional testing, boundary value analysis, exploratory testing,
 - VS Code
 - GitHub / Git
 - Node.js (local project setup)
-
+- Postman (API testing, request validation)
+- SQL (basic queries: SELECT, WHERE, JOIN)
 
 ## Projects
 - [Message Template Editor (React + TypeScript)](https://github.com/andreyy-qa/qa-message-template-editor)
